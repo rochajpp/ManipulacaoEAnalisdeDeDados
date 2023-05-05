@@ -1,0 +1,4 @@
+pandas
+IPython
+numpy
+openpyxl = Disponibiliza a manipulação de arquivos com excel  (xlsx / xlsm / xltx / xltm)
